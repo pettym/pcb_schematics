@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name 24-3553-10)(type Legacy)(uri /home/wm/kicad/library/24-3553-10.pretty/24-3553-10.lib)(options "")(descr ""))
+  (lib (name CFR-12JR-52-300R)(type Legacy)(uri /home/wm/kicad/library/CFR-12JR-52-300R.pretty/CFR-12JR-52-300R.lib)(options "")(descr ""))
+  (lib (name LTL-4232)(type Legacy)(uri /home/wm/kicad/library/LTL-4232.pretty/LTL-4232.lib)(options "")(descr ""))
+  (lib (name 860020372001)(type Legacy)(uri /home/wm/kicad/library/860020372001.pretty/860020372001.lib)(options "")(descr ""))
+)
